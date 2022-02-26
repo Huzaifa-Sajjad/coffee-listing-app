@@ -1,0 +1,15 @@
+.details {
+  div {
+    display: flex;
+    padding: 1rem 0;
+    border-bottom: 1px solid #f1f1f1;
+    h4 {
+      margin: 0;
+      width: 100%;
+      max-width: 120px;
+    }
+    span {
+      text-transform: capitalize;
+    }
+  }
+}
