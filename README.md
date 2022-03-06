@@ -6,5 +6,5 @@ A React based web application that fetches coffee listings from a api and then f
 https://random-data-api.com/api/coffee/random_coffee?size=${SIZE}
 
 ## External Dependencies
-React Paginate - https://www.npmjs.com/package/react-paginate
+React Paginate - https://www.npmjs.com/package/react-paginate \
 Axios - https://www.npmjs.com/package/axios
