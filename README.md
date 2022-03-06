@@ -7,4 +7,5 @@ https://random-data-api.com/api/coffee/random_coffee?size=${SIZE}
 
 ## External Dependencies
 React Paginate - https://www.npmjs.com/package/react-paginate \
-Axios - https://www.npmjs.com/package/axios
+Axios          - https://www.npmjs.com/package/axios \
+Sass           - https://www.npmjs.com/package/sass
